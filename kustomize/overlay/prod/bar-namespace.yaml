@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: bar
+  labels:
+    environment-id: env_d1818225-e504-420c-bfec-db6b966d96c5
+    project-id: project_782dbacb-39df-4ccb-b2fb-248e6faf27bd
+    project-name: TeslaHummingBird4545
+    environment-name: prod
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
